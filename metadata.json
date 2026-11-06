@@ -1,0 +1,6 @@
+{
+  "name": "BannerCraft Studio",
+  "description": "AI-powered studio that generates high-converting banner ads in all standard IAB and social sizes from product descriptions and URLs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
